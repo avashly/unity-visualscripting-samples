@@ -42,12 +42,13 @@ This demo will be added on March 16 after its debut at GDC Showcase 2021.
 
 <br>
 <br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/7104693/111117351-a5afa280-8524-11eb-8c69-e001789b8505.gif" width="300" align="left"/>
 
 ### [Penny Pixel: Endless Runner](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Runner_v1.0)
 
-A simple example of a 2D endless runner game. Includes visual scripts that handle basic physics, scoring, UI updates, & animations. Uses the Built-In Render Pipeline. 
+A simple example of a 2D endless runner game. Includes visual scripts that handle basic physics, scoring, UI updates, & animations.
 
 [` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Runner_v1.0) &nbsp; | &nbsp; ` Tutorial Video (Coming Soon) `
 
@@ -58,7 +59,7 @@ A simple example of a 2D endless runner game. Includes visual scripts that handl
 
 ### [Supernova: Space Shooter](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Space_v1.0)
 
-A Universal Render Pipeline demo that shows how to use C# scripts with Visual Scripting. Contains examples for using / customizing C# functions within Visual Scripting graphs, custom unit creation, & accessing Visual Scripting events & variables in C# scripts.
+Shows how to use C# scripts with Visual Scripting. Contains examples for using / customizing C# functions within visual scripts, custom unit creation, & accessing Visual Scripting events & variables in C# scripts.
 
 [` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Space_v1.0)
 
