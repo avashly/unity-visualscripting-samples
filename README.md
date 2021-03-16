@@ -42,7 +42,6 @@ This demo will be added on March 16 after its debut at GDC Showcase 2021.
 
 <br>
 <br>
-<br>
 
 <img src="https://user-images.githubusercontent.com/7104693/111117351-a5afa280-8524-11eb-8c69-e001789b8505.gif" width="300" align="left"/>
 
