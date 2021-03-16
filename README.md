@@ -41,9 +41,7 @@ This demo will be added on March 16 after its debut at GDC Showcase 2021.
 
 
 <br>
- 
-<span align="center">〰️</span>
-
+<br>
 <br>
 
 <img src="https://user-images.githubusercontent.com/7104693/111117351-a5afa280-8524-11eb-8c69-e001789b8505.gif" width="300" align="left"/>
@@ -56,7 +54,6 @@ A simple example of a 2D endless runner game. Includes visual scripts that handl
 
 <br>
 <br>
-<span align="center">〰️</span>
 <br>
 
 <img src="https://user-images.githubusercontent.com/7104693/98265670-373b5200-1f3e-11eb-9e40-f54c8409e50b.gif" width="300" align="left"/>
@@ -69,13 +66,11 @@ A Universal Render Pipeline demo that shows how to use C# scripts with Visual Sc
 
 <br>
 <br>
-<span align="center">〰️</span>
-<br>
-
 <br>
 
 __🔜 Additional samples in the works! Official repository to be added mid-2021.__
 
+<br>
 <br>
 <br>
 
