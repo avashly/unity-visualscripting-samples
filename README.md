@@ -8,7 +8,7 @@
 
 ## About
 <p align="center">
-<img src="https://unity.com/sites/default/files/styles/16_9_s_scale_width/public/2020-09/visual-scripting-intro-1020x574%401x.jpg" width="650"/> 
+<img src="https://user-images.githubusercontent.com/7104693/111111029-d25ebc80-851a-11eb-947b-b3b6bdc63b24.gif" width="650"/> 
 </p>
 
 A collection of Unity packages demonstrating game mechanics and use cases for Unity Visual Scripting (previously known as Bolt), which is now native to the editor as of Unity 2021.1.
@@ -31,13 +31,13 @@ The easiest way to get started:
 
 ## Samples
 
-<img src="https://user-images.githubusercontent.com/7104693/111243440-574ee200-85be-11eb-8c37-3fa752cdf370.png" width="300" align="left"/>
+<img src="https://user-images.githubusercontent.com/7104693/111186890-b259e800-8570-11eb-83da-6d688fd84dad.gif" width="300" align="left"/>
 
-### GDC Showcase 2021 Visual Scripting Demo 
+### [Terraformer: GDC Showcase 2021 Demo](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Terra_v1.0)
 
-This demo will be added on March 16 after its debut at GDC Showcase 2021.
+This character ability demo features visual scripts for working with the Input System, Visual Effect Graph, Timeline, Cinemachine, Scriptable Objects, animations, physics, custom events, & UI.
 
-` Download & Requirements (TBA)`
+[` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Terra_v1.0)
 
 
 <br>
@@ -64,6 +64,7 @@ Shows how to use C# scripts with Visual Scripting. Contains examples for using /
 [` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Space_v1.0)
 
 <br>
+<br>
 
 __🔜 Additional samples in the works! Official repository to be added mid-2021.__
 
@@ -74,6 +75,8 @@ __🔜 Additional samples in the works! Official repository to be added mid-2021
 
 <img src="https://user-images.githubusercontent.com/7104693/111242143-cc6ce800-85bb-11eb-846c-bd97cf850dcb.png" width="300" align="left" />
 Check out these helpful resources as you embark on your Visual Scripting adventures: 
+
+<br>
 <br>
 
 🔎 [Visual Scripting Feature Page](https://bit.ly/unityuvs) - Contains a detailed overview of the tool & its features.
