@@ -54,7 +54,6 @@ A simple example of a 2D endless runner game. Includes visual scripts that handl
 
 <br>
 <br>
-<br>
 
 <img src="https://user-images.githubusercontent.com/7104693/98265670-373b5200-1f3e-11eb-9e40-f54c8409e50b.gif" width="300" align="left"/>
 
@@ -65,12 +64,9 @@ A Universal Render Pipeline demo that shows how to use C# scripts with Visual Sc
 [` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Space_v1.0)
 
 <br>
-<br>
-<br>
 
 __🔜 Additional samples in the works! Official repository to be added mid-2021.__
 
-<br>
 <br>
 <br>
 
