@@ -41,8 +41,9 @@ This demo will be added on March 16 after its debut at GDC Showcase 2021.
 
 
 <br>
-<br>
+ 
 <span align="center">〰️</span>
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/7104693/111117351-a5afa280-8524-11eb-8c69-e001789b8505.gif" width="300" align="left"/>
@@ -81,7 +82,8 @@ __🔜 Additional samples in the works! Official repository to be added mid-2021
 ## Resources
 
 <img src="https://user-images.githubusercontent.com/7104693/111242143-cc6ce800-85bb-11eb-846c-bd97cf850dcb.png" width="300" align="left" />
-Check out these helpful resources as you embark on your Visual Scripting adventures: <br>
+Check out these helpful resources as you embark on your Visual Scripting adventures: 
+<br>
 
 🔎 [Visual Scripting Feature Page](https://bit.ly/unityuvs) - Contains a detailed overview of the tool & its features.
 
