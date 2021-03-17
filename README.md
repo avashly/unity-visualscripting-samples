@@ -50,7 +50,7 @@ This character ability demo features visual scripts for working with the Input S
 
 A simple example of a 2D endless runner game. Includes visual scripts that handle basic physics, scoring, UI updates, & animations.
 
-[` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Runner_v1.0) &nbsp; | &nbsp; ` Tutorial Video (Coming Soon) `
+[` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Runner_v1.0) &nbsp; | &nbsp; [` Tutorial Video `](https://app.swapcard.com/event/gdc-showcase/planning/UGxhbm5pbmdfMzYwNjg3)
 
 <br>
 <br>
