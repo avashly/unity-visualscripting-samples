@@ -63,10 +63,6 @@ Shows how to use C# scripts with Visual Scripting. Contains examples for using /
 
 [` Download & Requirements `](https://github.com/avashly/unity-visualscripting-samples/releases/tag/Space_v1.0)
 
-<br>
-<br>
-
-__🔜 Additional samples in the works! Official repository to be added mid-2021.__
 
 <br>
 <br>
